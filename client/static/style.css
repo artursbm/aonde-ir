@@ -1,0 +1,6 @@
+body {
+  direction: ltr;
+  background-image: url('../src/assets/LogoApp.png');
+  background-position: center;
+  background-size: cover;
+}
